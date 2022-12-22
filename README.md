@@ -52,6 +52,20 @@ that turn.
 
 Recipees
 
+Yoghurt(Price: 8 coins) - 3 milk 
+
+Meringue(Price: 9 coins) - 3 eggs
+
+Bread(Price: 10 coins) - 3 flour
+  
+Bun(Price: 11 coins) - 2 flour, 1 milk
+ 
+Crepe(Price: 12 coins) - 1 flour, 2 eggs
+  
+Pudding(Price: 13 coins) - 1 egg, 2 milk
+    
+Cake(Price: 22 coins) - 2 flour, 2 eggs, 2 milk
+
 
 The game ends automatically once a player obtains 100 coins 
 and it declares that player as the winner
